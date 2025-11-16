@@ -96,7 +96,7 @@ The analysis assumes PLINK files like:
   * **low FST between Canadian and Siberian populations** (high gene flow/shared ancestry)
   * **higher FST** for some Greenlandic regions, especially **Qanisartuut**.
 
-### 5. Gene flow and clustering
+### 4. Gene flow and clustering
 
 **Neighbour-joining (NJ) tree**
 
