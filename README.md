@@ -27,9 +27,7 @@ This project uses genome-wide SNP data from **47 individuals** to ask:
 │  ├─ admixture_k5.png
 │  ├─ admixture_k6.png
 │  ├─ admixture_k7.png
-│  ├─ fst_regions.png
-│  ├─ fst_clusters.png
-│  └─ nj_tree.png
+│  └─ fst_regions.png
 └─ README.md
 ```
 
