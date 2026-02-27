@@ -1,7 +1,5 @@
 # Isolated or Connected? Genetic Structure of the Arctic Fox ( *Vulpes lagopus* ) 🦊❄️
 
-This repository contains code and figures for a population-genetic study of **Arctic fox** (*Vulpes lagopus*) populations from **Greenland, Canada and Siberia**.
-
 The Arctic fox is a highly mobile, circumpolar species that relies on **sea ice** to travel long distances. Because sea ice is shrinking with climate change, patterns of **migration and gene flow** between populations are expected to change.
 
 This project uses genome-wide SNP data from **47 individuals** to ask:
